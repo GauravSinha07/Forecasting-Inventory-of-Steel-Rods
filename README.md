@@ -25,6 +25,14 @@ inventory levels and lessen overstocking.
 ![image](https://github.com/user-attachments/assets/df250cf9-b87e-425a-9ece-ad0c518e01c5)
 
 
+<h2>Best Model</h2>
+
+An autoregressive integrated moving average, or ARIMA, is a statistical analysis model that uses 
+time series data to either better understand the data set or to predict future trends. 
+A statistical model is autoregressive if it predicts future values based on past values.
+MAPE: 8.25
+
+
 
 
 
