@@ -15,6 +15,11 @@ inventory levels and lessen overstocking.
 
 ![image](https://github.com/user-attachments/assets/a3746eb3-6c7b-4f0c-b57d-3996b095bce0)
 
+<h2>CRISP-ML(Q) Methodology</h2>
+
+![image](https://github.com/user-attachments/assets/78bb1c7a-e495-49e1-90e5-2001932f52ee)
+
+
 
 
 
