@@ -1,4 +1,4 @@
-<h1>Business Problem</h1>
+<h2>Business Problem</h2>
 Excess inventory and storage issue
 
 <h2>Business Objective</h2>
