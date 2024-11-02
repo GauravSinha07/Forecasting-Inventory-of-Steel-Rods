@@ -11,6 +11,9 @@ In order to cut waste and boost profitability, the project's overall goal is to 
 The goal of the project is to create a demand forecasting model that can predict steel demand with accuracy, allowing the business to optimise 
 inventory levels and lessen overstocking. 
 
+![image](https://github.com/user-attachments/assets/6c441069-ddca-4e9a-98dd-8b4744078cdd)
+
+
 
 
 
